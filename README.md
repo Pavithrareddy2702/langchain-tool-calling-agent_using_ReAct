@@ -16,7 +16,10 @@ The agent can reason through user queries, decide when to use external tools, re
 
 ## 📸 Screenshots
 
-(Add screenshots of your Streamlit application here)
+<img width="1903" height="944" alt="image" src="https://github.com/user-attachments/assets/1c92e757-6ba0-4214-815a-2f7e780f2e33" />
+<img width="1915" height="942" alt="image" src="https://github.com/user-attachments/assets/c075f440-9f20-46ae-80d9-32e11b183a61" />
+
+
 
 ---
 
