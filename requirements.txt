@@ -1,0 +1,13 @@
+streamlit==1.35.0
+
+langchain==0.1.16
+langchain-community==0.0.32
+langchain-core==0.1.42
+langchain-groq==0.1.2
+langchainhub==0.1.15
+
+tavily-python==0.3.3
+
+python-dotenv==1.0.1
+requests==2.31.0
+certifi==2024.2.2
